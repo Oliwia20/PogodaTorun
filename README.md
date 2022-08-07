@@ -49,6 +49,30 @@ for i in range(0,12):
 | ![Miesiac9](https://user-images.githubusercontent.com/72518873/183078671-b5b87655-c1a4-49e6-9c55-9149687eab18.png)| ![Miesiac10](https://user-images.githubusercontent.com/72518873/183078672-01d64554-2eaf-48c0-b6ac-0e10b0b95392.png)     | 
 | ![Miesiac11](https://user-images.githubusercontent.com/72518873/183078675-1d17d60f-85de-43d1-bbe8-233717faf291.png) | ![Miesiac12](https://user-images.githubusercontent.com/72518873/183078678-b7fee4d9-72ff-411b-9ab5-c3b13a8967cb.png)| 
 
+## Prognoza na kolejne 5 lat przy użyciu Neural Prophet
+
+Czym jest Neural Prophet?
+Jest to framework , który łączy tradycyjne modele szeregów czasowych z metodami głębokiego uczenia.
+
+Poniższy wykres prezentuje przykładowe dane z paru lat,na których został wytrenowany model.
+
+![image](https://user-images.githubusercontent.com/72518873/183305780-23dd0608-b9c1-4d0c-8fd5-ae1f50916cc4.png)
+
+Na pierwszy rzut oka widać,że temperatura ma tendencje rosnącą.
+
+## Wyniki prognozy
+
+![image](https://user-images.githubusercontent.com/72518873/183305949-e513d3d6-badf-4245-b7ac-01b696f0b076.png)
+![image](https://user-images.githubusercontent.com/72518873/183305840-c807097e-9ab8-47ea-972a-7d57c486d2a5.png)
+
+Można zauważyć po analizie systematyczny wzrost temperatury w przyszłych latach.
+
+## Wnioski
+
+
+
+
+
 
 
 
